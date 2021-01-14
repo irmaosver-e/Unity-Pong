@@ -1,0 +1,32 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: NVIDIA NVS 3100M (ID=0xa6c)
+    Vendor:   NVIDIA
+    VRAM:     1446 MB
+    Driver:   21.21.13.4201
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.481 seconds
+Platform assembly: C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ernani\Desktop\Pong\Pong_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.793676 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 28dc -> priority: 1 
